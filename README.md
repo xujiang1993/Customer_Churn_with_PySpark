@@ -4,7 +4,7 @@ Streaming media companies such as Sportify and Tencent Music are easily to join 
 
 # Data
 The data of this work is provided by Udacity. Since this demo only work locally, I choose a relatively small data subset (128MB) for this work (the full dataset would be 12GB). The data used in this blog contains the records of the customer behaviors( e.g. Add Friend, Add to Playlist, Next Song, Roll Advert, Thubs Down and Thumbs up etc), the details of the songs, artists, login devices and events timestamps.An snapshot of the records is given below.
-![This is snapshot of data](pic/data.GIF)
+![This is snapshot of data](pic/data.png)
 The snapshot of the dataEach row of the data represent an user operation log and the timestamps can help us to sort the events.
 
 # Package Requirement
