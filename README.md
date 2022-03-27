@@ -2,6 +2,7 @@
 ![This is snapshot of data](pic/logo.jpeg)
 ## Table of Contents
 * Background
+* File Descriptions
 * Data
 * Package Requirement
 * Licensing, Authors, Acknowledgements
@@ -19,7 +20,7 @@ The details of project can be found in my Medium(https://medium.com/@xujiang1993
 
 
 ## File Descriptions
-Sparkify.ipynb can be used to run the code and see the analysis.
+Sparkify.ipynb contains the code of the project and mini_sparkify_event_data.json is the customer log.
 
 ## Data
 The data of this work is provided by Udacity. Since this demo only work locally, I choose a relatively small data subset (128MB) for this work (the full dataset would be 12GB). The data used in this blog contains the records of the customer behaviors( e.g. Add Friend, Add to Playlist, Next Song, Roll Advert, Thubs Down and Thumbs up etc), the details of the songs, artists, login devices and events timestamps.An snapshot of the records is given below.
