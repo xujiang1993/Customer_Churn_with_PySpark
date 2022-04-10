@@ -17,7 +17,9 @@ Streaming media companies such as Sportify and Tencent Music are easily to join 
 * Data Gathering
 * Modeling and Evaluation
 
-The details of project can be found in my Medium(https://medium.com/@xujiang1993/build-a-machine-learning-model-with-pyspark-641cd70b7923).
+The details of project can be found in my Medium:
+1. https://medium.com/@xujiang1993/build-a-machine-learning-model-with-pyspark-641cd70b7923
+2. https://medium.com/@xujiang1993/customer-churn-prediction-with-pyspark-76c16a19f1
 
 
 ## File Descriptions
